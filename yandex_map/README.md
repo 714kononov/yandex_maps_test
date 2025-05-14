@@ -1,6 +1,8 @@
 # yandex_map
 
-Test yandex maps
+This is test application for testing yandex_maps_kit, for wil using in different application and projects.
+Have a good day!
+PS: STARKON.CORP
 
 ## Getting Started
 
